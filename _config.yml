@@ -1,7 +1,7 @@
 name: Cause Inspired Media
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.56716
+layout_spectrum: 0
+typography_spectrum: 0.38697
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#242020'
     - '#000000'
     - '#00bfbf'
-  brandStrength: 0.75
-  lightness: 0.625
-  saturation: 0.75
-  rhythmicContrast: 0.1285898711066693
+  brandStrength: 0.5
+  lightness: 0
+  saturation: 1
+  rhythmicContrast: 1
 purpose: []
