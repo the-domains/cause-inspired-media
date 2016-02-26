@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Cause Inspired Media]]></title>
+        <description><![CDATA[Cause Inspired Media]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 26 Feb 2016 15:07:54 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Cause Inspired Media understands what is important to your organization and develops that passion into successful campaigns to help grow your organization.]]></title>
+            <description><![CDATA[<article><h1>Cause Inspired Media understands what is important to your organization and develops that passion into successful campaigns to help grow your organization.</h1><p>We work with non-profits in managing their digital advertising for them by leveraging our experience with Google AdGrants. We utilize the grant in very unique ways, targeting the needs of each organization. For some, we focus more on direct donation while others we use the grant to help nonprofits develop larger corporate donors. With our experience we now manage over 7 million dollars in Google Grants. We are a Google Partner with we are Certified by Google ensuring the highest standards in managing and procuring the Google AdGrant.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e266544f27bd7a96287121d5fea30d759732992c.png"></article>]]></description>
+            <link>undefinedcause-inspired-media-understands-what-is-important-to-your-o/index.html</link>
+            <guid isPermaLink="false">471fd1d4-cd85-443d-a157-19c03e9cf500</guid>
+            <pubDate>Fri, 26 Feb 2016 15:07:53 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
