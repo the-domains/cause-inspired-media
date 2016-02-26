@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Cause Inspired Media]]></title>
         <description><![CDATA[Cause Inspired Media]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/cause-inspired-media/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 26 Feb 2016 15:07:54 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 26 Feb 2016 15:11:14 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/cause-inspired-media/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[WHAT OUR CLIENTS SAY]]></title>
+            <description><![CDATA[<h1>WHAT OUR CLIENTS SAY</h1>]]></description>
+            <link>https://thegrid.ai/cause-inspired-media/what-our-clients-say/index.html</link>
+            <guid isPermaLink="false">2c8fbbf8-195d-4bb9-82c9-897fc0c70d20</guid>
+            <pubDate>Fri, 26 Feb 2016 15:10:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Cause Inspired Media understands what is important to your organization and develops that passion into successful campaigns to help grow your organization.]]></title>
             <description><![CDATA[<article><h1>Cause Inspired Media understands what is important to your organization and develops that passion into successful campaigns to help grow your organization.</h1><p>We work with non-profits in managing their digital advertising for them by leveraging our experience with Google AdGrants. We utilize the grant in very unique ways, targeting the needs of each organization. For some, we focus more on direct donation while others we use the grant to help nonprofits develop larger corporate donors. With our experience we now manage over 7 million dollars in Google Grants. We are a Google Partner with we are Certified by Google ensuring the highest standards in managing and procuring the Google AdGrant.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e266544f27bd7a96287121d5fea30d759732992c.png"></article>]]></description>
-            <link>undefinedcause-inspired-media-understands-what-is-important-to-your-o/index.html</link>
+            <link>https://thegrid.ai/cause-inspired-media/cause-inspired-media-understands-what-is-important-to-your-o/index.html</link>
             <guid isPermaLink="false">471fd1d4-cd85-443d-a157-19c03e9cf500</guid>
             <pubDate>Fri, 26 Feb 2016 15:07:53 GMT</pubDate>
         </item>
