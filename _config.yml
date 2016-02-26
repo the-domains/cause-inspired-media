@@ -1,0 +1,28 @@
+name: Cause Inspired Media
+favicon: null
+layout_spectrum: 0.5746551833581179
+typography_spectrum: 0.6743211993016303
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.9439231411088258
+  lightness: 0.23153567709960043
+  saturation: 0.8575122191105038
+  rhythmicContrast: 0.1285898711066693
+purpose: []
